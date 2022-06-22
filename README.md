@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Alejandro Aguayo-Ortiz
 ---
 
+- 🔭 I'm a Ph.D. candidate in astrophysics.
+- 🖥️ I'm currently working as a Data Scientist at AperVox-Octopy
 <!--
 **aaguayoo/aaguayoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
