@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Alejandro Aguayo-Ortiz
 ---
 
-- 🔭 I'm a Ph.D. candidate in astrophysics.
 - 🖥️ I'm currently working as a Data Scientist at AperVox-Octopy.
+- 🔭 I have a Ph.D. in astrophysics.
 
 ### Skills
 ---
