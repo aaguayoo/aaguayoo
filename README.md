@@ -8,7 +8,7 @@
 ---
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://www.linux.org/images/logo.png" height="36" alt="Linux"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.pytorch.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:691/1*VSQ0XEywxSgZBwW05GsZtw.png" height="36" alt="C"/></a>
+<a href="https://www.pytorch.org/" target="_blank" rel="noreferrer"><img src="https://blog.roboflow.com/content/images/2020/04/pytorch-logo.jpeg" height="36" alt="C"/></a>
 <a href="https://www.mlflow.org/" target="_blank" rel="noreferrer"><img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" height="36" alt="C"/></a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://www.latex-project.org/img/latex-project-logo.svg" height="36" alt="LaTeX"/></a>
 <a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg" height="36" alt="Neo4j"/></a>
