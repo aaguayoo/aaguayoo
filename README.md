@@ -11,7 +11,8 @@
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://www.latex-project.org/img/latex-project-logo.svg" height="36" alt="LaTeX"/></a>
 <a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg" height="36" alt="Neo4j"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1280px-The_C_Programming_Language_logo.svg.png" height="36" alt="C"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" height="36" alt="C"/></a>
+<a href="https://www.pytorch.org/" target="_blank" rel="noreferrer"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" height="36" alt="C"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:691/1*VSQ0XEywxSgZBwW05GsZtw.png" height="36" alt="C"/></a>
 
 <!--
 **aaguayoo/aaguayoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
