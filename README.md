@@ -7,6 +7,8 @@
 ### Skills
 ---
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://www.linux.org/images/logo.png" height="36" alt="Linux"/></a>
+- Debian based systems.
+- Fluid command line usage - Bash
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.pytorch.org/" target="_blank" rel="noreferrer"><img src="https://blog.roboflow.com/content/images/2020/04/pytorch-logo.jpeg" height="36" alt="C"/></a>
 <a href="https://www.mlflow.org/" target="_blank" rel="noreferrer"><img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" height="36" alt="C"/></a>
