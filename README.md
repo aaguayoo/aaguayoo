@@ -9,7 +9,7 @@
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://www.linux.org/images/logo.png" height="36" alt="Linux"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.pytorch.org/" target="_blank" rel="noreferrer"><img src="https://blog.roboflow.com/content/images/2020/04/pytorch-logo.jpeg" height="36" alt="C"/></a>
-<a href="https://www.mlflow.org/" target="_blank" rel="noreferrer"><img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" height="36" alt="C"/></a>
+<a href="https://www.mlflow.org/" target="_blank" rel="noreferrer"><img src="https://mlflow.org/img/mlflow-black.svg" height="36" alt="C"/></a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://i.stack.imgur.com/AarYf.png" height="36" alt="LaTeX"/></a>
 <a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg" height="36" alt="Neo4j"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1280px-The_C_Programming_Language_logo.svg.png" height="36" alt="C"/></a>
